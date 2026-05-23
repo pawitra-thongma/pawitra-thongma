@@ -132,8 +132,13 @@ Designed and developed a business management system using object-oriented princi
 Naresuan University (SCI Academic Expo 2024)
 - Explained AI concepts to 500+ visitors in an accessible way
 - Managed exhibition zone and coordinated team operations
+<img src="https://drive.google.com/uc?export=view&id=1Ylf9g7cCol8y-hVUYD9rMY7-K6y223N_" width="600" alt="Science Week 2024 AI Exhibition"/>
+---
 
-<img src="https://drive.google.com/file/d/1Ylf9g7cCol8y-hVUYD9rMY7-K6y223N_/view?usp=sharing" width="600" alt="Science Week 2024 AI Exhibition"/>
+**🔬 SCI Academic Expo 2025
+Faculty of Science, Naresuan University
+Participated in the SCI Academics Expo 2025 organized by the Faculty of Science, Naresuan University.
+<img src="https://drive.google.com/uc?export=view&id=1P6v_jB_Acnv62Q26-FU6Jn1PlXKx6Klr" width="600" alt="SCI Academic Expo 2025"/>
 ---
 
 ## 📈 GitHub Stats

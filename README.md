@@ -133,6 +133,7 @@ Naresuan University (SCI Academic Expo 2024)
 - Explained AI concepts to 500+ visitors in an accessible way
 - Managed exhibition zone and coordinated team operations
 
+<img src="https://drive.google.com/file/d/1Ylf9g7cCol8y-hVUYD9rMY7-K6y223N_/view?usp=sharing" width="600" alt="Science Week 2024 AI Exhibition"/>
 ---
 
 ## 📈 GitHub Stats

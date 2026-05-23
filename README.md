@@ -54,6 +54,16 @@ I'm a 4nd-year IT student at **Naresuan University** (Faculty of Science) with a
 
 ---
 
+### Travel Website — อุทยานแห่งชาติภูหินร่องกล้า
+> **HTML · CSS · JavaScript · Bootstrap** · Web Development
+ 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-28a745?style=flat-square&logo=netlify&logoColor=white)](https://67829f18bc84a1ba3ab00af3--harmonious-entremet-6db34e.netlify.app/)
+[![Repo](https://img.shields.io/badge/GitHub-travel-black?style=flat-square&logo=github)](https://github.com/pawitra054321-ux/travel)
+ 
+[![Travel Website Preview](https://67829f18bc84a1ba3ab00af3--harmonious-entremet-6db34e.netlify.app/images/bg2.jpg)](https://67829f18bc84a1ba3ab00af3--harmonious-entremet-6db34e.netlify.app/)
+ 
+---
+
 ## Projects
 
 ### Studio Room Booking System

@@ -60,7 +60,7 @@ I'm a 4nd-year IT student at **Naresuan University** (Faculty of Science) with a
 [![Live Demo](https://img.shields.io/badge/Live-Demo-28a745?style=flat-square&logo=netlify&logoColor=white)](https://67829f18bc84a1ba3ab00af3--harmonious-entremet-6db34e.netlify.app/)
 [![Repo](https://img.shields.io/badge/GitHub-travel-black?style=flat-square&logo=github)](https://github.com/pawitra-thongma/travel)
  
-[![Travel Website Preview](https://67829f18bc84a1ba3ab00af3--harmonious-entremet-6db34e.netlify.app/images/bg2.jpg)](https://67829f18bc84a1ba3ab00af3--harmonious-entremet-6db34e.netlify.app/)
+[![Travel Website Preview](https://github.com/pawitra-thongma/travel/blob/494f38fc5a0993085c73c81abe7ccb2b20e24628/image.png)](https://67829f18bc84a1ba3ab00af3--harmonious-entremet-6db34e.netlify.app/)
  
 ---
 

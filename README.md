@@ -11,7 +11,6 @@
 
 </div>
 
----
 
 ## 👩‍💻 About Me
 
@@ -55,9 +54,9 @@ I'm a 4nd-year IT student at **Naresuan University** (Faculty of Science) with a
 
 ---
 
-## 📂 Projects
+## Projects
 
-### 🌐 Studio Room Booking System
+### Studio Room Booking System
 > **PHP · MySQL · HTML/CSS/JS · Bootstrap** · Web Technology Course (273282)
 
 A full-stack online booking platform for photography studios and recording rooms.
@@ -71,7 +70,7 @@ A full-stack online booking platform for photography studios and recording rooms
 
 ---
 
-### 📊 Social Media Engagement Analysis
+### Social Media Engagement Analysis
 > **Python · SQL (SQLite) · pandas · matplotlib · seaborn** · Personal Project
 
 Analyzed 1,000 posts across 5 platforms to uncover what drives engagement.
@@ -90,7 +89,7 @@ Analyzed 1,000 posts across 5 platforms to uncover what drives engagement.
 
 ---
 
-### 🎓 Student Pass/Fail Prediction
+### Student Pass/Fail Prediction
 > **Python · scikit-learn · pandas · matplotlib · seaborn** · Data Analysis Course (273341)
 
 Compared 3 ML classification models to predict student academic outcomes.
@@ -111,7 +110,7 @@ Compared 3 ML classification models to predict student academic outcomes.
 
 ---
 
-### 🏪 Business Management System
+### Business Management System
 > **Java · OOP · Flowchart · Use Case Diagram** · OOP & System Analysis Course
 
 Designed and developed a business management system using object-oriented principles.
@@ -125,7 +124,7 @@ Designed and developed a business management system using object-oriented princi
 
 ---
 
-## 🤝 Activities
+## Activities
 
 **Science Week 2024 — AI Exhibition Staff**
 Naresuan University (SCI Academic Expo 2024)
@@ -137,7 +136,7 @@ Naresuan University (SCI Academic Expo 2024)
 
 ---
 
-**🔬 SCI Academic Expo 2025**
+**SCI Academic Expo 2025**
 Faculty of Science, Naresuan University
 - Participated in the SCI Academics Expo 2025 organized by the Faculty of Science, Naresuan University.
 <img src="https://drive.google.com/uc?export=view&id=1P6v_jB_Acnv62Q26-FU6Jn1PlXKx6Klr" width="600" alt="SCI Academic Expo 2025"/>

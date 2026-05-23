@@ -5,7 +5,6 @@
 
 **Information Technology Student · Naresuan University · GPA 3.15**
 
-*Passionate about understanding user needs, building systems, and turning data into decisions.*
 
 [![Email](https://img.shields.io/badge/Email-pawitra054321%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:pawitra054321@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-061--632--8166-green?style=flat-square&logo=phone&logoColor=white)](tel:0616328166)
@@ -16,7 +15,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a 2nd-year IT student at **Naresuan University** (Faculty of Science) with a strong interest in **system analysis, data analysis, and web development**. I enjoy working at the intersection of users and technology — gathering requirements, designing solutions, and making data meaningful.
+I'm a 4nd-year IT student at **Naresuan University** (Faculty of Science) with a strong interest in **system analysis, data analysis, and web development**. I enjoy working at the intersection of users and technology — gathering requirements, designing solutions, and making data meaningful.
 
 - 🎓 B.Sc. Information Technology, Naresuan University (2023–Present) · GPA **3.15**
 - 🔍 Interested in: **BA · System Analyst · Data Analyst · Web Developer**
@@ -130,26 +129,18 @@ Designed and developed a business management system using object-oriented princi
 
 **Science Week 2024 — AI Exhibition Staff**
 Naresuan University (SCI Academic Expo 2024)
-- Explained AI concepts to 500+ visitors in an accessible way
-- Managed exhibition zone and coordinated team operations
+- Served as a staff member in the AI exhibition booth during Science Week 2024 at Naresuan University.
+- Explained AI concepts and AI service platforms to visitors in an accessible and engaging way.
+- Assisted in managing the exhibition booth and coordinating activities with team members.
+- Supported visitors by providing information and guidance related to AI technologies and applications.
 <img src="https://drive.google.com/uc?export=view&id=1Ylf9g7cCol8y-hVUYD9rMY7-K6y223N_" width="400" alt="Science Week 2024 AI Exhibition"/>
+
 ---
 
-**🔬 SCI Academic Expo 2025
+**🔬 SCI Academic Expo 2025**
 Faculty of Science, Naresuan University
 - Participated in the SCI Academics Expo 2025 organized by the Faculty of Science, Naresuan University.
 <img src="https://drive.google.com/uc?export=view&id=1P6v_jB_Acnv62Q26-FU6Jn1PlXKx6Klr" width="600" alt="SCI Academic Expo 2025"/>
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pawitra-thongma&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pawitra-thongma&layout=compact&hide_border=true)
-
-</div>
 
 ---
 

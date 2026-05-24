@@ -116,7 +116,7 @@ Compared 3 ML classification models to predict student academic outcomes.
 | Decision Tree | **67.09%** | 35.0% |
 | Random Forest | 64.56% | 17.6% |
 
-[![Repo](https://img.shields.io/badge/GitHub-student--prediction-black?style=flat-square&logo=github)](https://github.com/pawitra-thongma/student-pass-fail-prediction)
+[![Repo](https://img.shields.io/badge/GitHub-student--prediction-black?style=flat-square&logo=github)](https://github.com/pawitra-thongma/student-prediction)
 
 ---
 

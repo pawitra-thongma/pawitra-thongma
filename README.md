@@ -66,18 +66,17 @@ I'm a 4nd-year IT student at **Naresuan University** (Faculty of Science) with a
 
 ## Projects
 
-### Studio Room Booking System
-> **PHP · MySQL · HTML/CSS/JS · Bootstrap** · Web Technology Course (273282)
-
-A full-stack online booking platform for photography studios and recording rooms.
-
-- Built **2-role system** (Customer / Admin) with session-based authentication
-- Implemented complete **CRUD operations** for rooms, bookings, and users
-- Designed **ER Diagram + Data Dictionary** across 8 related database tables
-- Admin can approve/reject bookings; customers can search, filter, and book rooms with equipment
-
-[![Repo](https://img.shields.io/badge/GitHub-studio--booking-black?style=flat-square&logo=github)](https://github.com/pawitra-thongma/studio-booking)
-
+### Logistics Inventory Management System
+> **PHP · MySQL · HTML/CSS/JS** · Business Record and Logistics Management Course (273481)
+ 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-28a745?style=flat-square&logo=google-chrome&logoColor=white)](https://pawitra-inventory.free.nf)
+[![Repo](https://img.shields.io/badge/GitHub-logistics--inventory-black?style=flat-square&logo=github)](https://github.com/pawitra-thongma/logistics-inventory)
+ 
+A full-stack inventory management system for wholesale stores — replacing manual record-keeping with a real-time digital system.
+ 
+- Built **2-role system** (Manager / Staff) with complete CRUD for products, orders, sales, and payments
+- Designed **8-table database** with ER Diagram and Use Case Diagram
+- Deployed live on InfinityFree with real MySQL database
 ---
 
 ### Social Media Engagement Analysis

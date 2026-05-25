@@ -20,7 +20,6 @@ I'm a 4nd-year IT student at **Naresuan University** (Faculty of Science) with a
 - 🔍 Interested in: **BA · System Analyst · Data Analyst · Web Developer**
 - 🌱 Currently exploring: Python data analysis, SQL, PHP web apps
 - 📍 Nong Bua Lamphu, Thailand
-- 💼 Open to internship opportunities
 
 ---
 
@@ -54,15 +53,6 @@ I'm a 4nd-year IT student at **Naresuan University** (Faculty of Science) with a
 
 ---
 
-### Travel Website — อุทยานแห่งชาติภูหินร่องกล้า
-> **HTML · CSS · JavaScript · Bootstrap** · Web Development
- 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-28a745?style=flat-square&logo=netlify&logoColor=white)](https://67829f18bc84a1ba3ab00af3--harmonious-entremet-6db34e.netlify.app/)
-[![Repo](https://img.shields.io/badge/GitHub-travel-black?style=flat-square&logo=github)](https://github.com/pawitra-thongma/travel)
- 
-[![Travel Website Preview](https://github.com/pawitra-thongma/travel/blob/494f38fc5a0993085c73c81abe7ccb2b20e24628/image.png)](https://67829f18bc84a1ba3ab00af3--harmonious-entremet-6db34e.netlify.app/)
- 
----
 
 ## Projects
 
@@ -77,6 +67,16 @@ A full-stack inventory management system for wholesale stores — replacing manu
 - Built **2-role system** (Manager / Staff) with complete CRUD for products, orders, sales, and payments
 - Designed **8-table database** with ER Diagram and Use Case Diagram
 - Deployed live on InfinityFree with real MySQL database
+---
+
+### Travel Website — อุทยานแห่งชาติภูหินร่องกล้า
+> **HTML · CSS · JavaScript · Bootstrap** · Web Development
+ 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-28a745?style=flat-square&logo=netlify&logoColor=white)](https://67829f18bc84a1ba3ab00af3--harmonious-entremet-6db34e.netlify.app/)
+[![Repo](https://img.shields.io/badge/GitHub-travel-black?style=flat-square&logo=github)](https://github.com/pawitra-thongma/travel)
+ 
+[![Travel Website Preview](https://github.com/pawitra-thongma/travel/blob/494f38fc5a0993085c73c81abe7ccb2b20e24628/image.png)](https://67829f18bc84a1ba3ab00af3--harmonious-entremet-6db34e.netlify.app/)
+ 
 ---
 
 ### Social Media Engagement Analysis
@@ -116,20 +116,6 @@ Compared 3 ML classification models to predict student academic outcomes.
 | Random Forest | 64.56% | 17.6% |
 
 [![Repo](https://img.shields.io/badge/GitHub-student--prediction-black?style=flat-square&logo=github)](https://github.com/pawitra-thongma/student-prediction)
-
----
-
-### Business Management System
-> **Java · OOP · Flowchart · Use Case Diagram** · OOP & System Analysis Course
-
-Designed and developed a business management system using object-oriented principles.
-
-- Conducted **stakeholder interviews** with store owners to gather requirements
-- Translated business pain points into **product goals** and system design
-- Designed system logic via **Flowcharts** and **Use Case Diagrams**
-- Developed functional operations using **Java OOP** principles
-
-[![Repo](https://img.shields.io/badge/GitHub-biz--management--system-black?style=flat-square&logo=github)](https://github.com/pawitra-thongma/biz-management-system)
 
 ---
 

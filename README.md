@@ -1,9 +1,9 @@
 <div align="center">
 
-# Pawitra Thongma 👋
+# Pawitra Thongma 
 ### ปวิตรา ทองมา
 
-**Information Technology Student · Naresuan University · GPA 3.15**
+**Information Technology Student · Naresuan University · GPA 3.16**
 
 
 [![Email](https://img.shields.io/badge/Email-pawitra054321%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:pawitra054321@gmail.com)
